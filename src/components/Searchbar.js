@@ -21,7 +21,7 @@ class Searchbar extends Component {
           }}
         >
           {" "}
-          İzlemek İstediğin Filmi veya Diziyi Arat
+          İzlemek İstediğin animeyi Aratabilirisniz
         </p>
 
         <div className="row col-12">

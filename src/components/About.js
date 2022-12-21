@@ -10,14 +10,12 @@ function About() {
         </div>
     
       <div className="col-sm-7">
-        <p style={{"marginTop":"6.5rem", "marginLeft":"2rem","marginRight":"5rem"}}> Reactflix; internet bağlantılı binlerce cihazda ödüllü diziler, filmler, animeler, 
-        belgeseller ve daha fazlasını içeren geniş bir arşiv sunan bir streaming hizmetidir. Çok fazla bu tarz platformun olduğunun bilincindeyiz ancak bunların hemen hemen
+        <p style={{"marginTop":"6.5rem", "marginLeft":"2rem","marginRight":"5rem"}}> Reactflix; internet bağlantılı binlerce cihazda ödüllü animeler,anime  filmleri
+        ve daha fazlasını içeren geniş bir arşiv sunan bir streaming hizmetidir. Çok fazla bu tarz platformun olduğunun bilincindeyiz ancak bunların hemen hemen
         hiç birisi Reactflix'in çalışma prensiplerine sahip değillerdir. Çünkü sitemiz bünyesinde özel bir teknik ekip sadece sizlerin film izleme kalitesini arttırmak adına
-        haftanın yedi gününde ara vermeden çalışmaktadırlar. Bu sebeple de sitemizde yer alan istisnasız her dizi ve film üst düzey kalitede sizlerin beğenisine sunulmaktadır.
+        haftanın yedi gününde ara vermeden çalışmaktadırlar. Bu sebeple de sitemizde yer alan istisnasız her anime  ve anime fillerini üst düzey kalitede sizlerin beğenisine sunulmaktadır.
         Bu durum ise sitemizin ilk ve en önemli olmazsa olmazları arasındadır.</p>
-        <p style={{"marginLeft":"2rem", "marginRight":"5rem"}}>Tek bir reklam olmadan, istediğiniz kadar, istediğiniz zaman izleyebilirsiniz - hepsi aylık düşük bir ücret 
-        karşılığında. Her zaman keşfedilecek yeni bir şeyler var, üstelik her hafta yeni diziler ve filmler ekleniyor!</p>
-        <p style={{"marginLeft":"2rem"}}>Sevdiklerinizle, dilediğiniz gibi dizi ve film keyfinin tadını çıkarın! </p>
+        <p style={{"marginLeft":"2rem"}}>Sevdiginiz anileleri izlerken iyi eglenceler. </p>
       </div>
     </div>
     
